@@ -1,0 +1,24 @@
+Hidden Layer Size [20,10]
+
+
+Iteration 1 of 10
+Iteration 1: Training Accuracy = 98.02%, Test Accuracy = 68.52%
+Iteration 2 of 10
+Iteration 2: Training Accuracy = 100.00%, Test Accuracy = 88.89%
+Iteration 3 of 10
+Iteration 3: Training Accuracy = 74.21%, Test Accuracy = 62.96%
+Iteration 4 of 10
+Iteration 4: Training Accuracy = 85.71%, Test Accuracy = 72.22%
+Iteration 5 of 10
+Iteration 5: Training Accuracy = 100.00%, Test Accuracy = 81.48%
+Iteration 6 of 10
+Iteration 6: Training Accuracy = 100.00%, Test Accuracy = 75.93%
+Iteration 7 of 10
+Iteration 7: Training Accuracy = 98.41%, Test Accuracy = 87.04%
+Iteration 8 of 10
+Iteration 8: Training Accuracy = 100.00%, Test Accuracy = 68.52%
+Iteration 9 of 10
+Iteration 9: Training Accuracy = 98.02%, Test Accuracy = 74.07%
+Iteration 10 of 10
+Iteration 10: Training Accuracy = 77.38%, Test Accuracy = 68.52%
+Training and testing completed for 10 iterations. Results saved.

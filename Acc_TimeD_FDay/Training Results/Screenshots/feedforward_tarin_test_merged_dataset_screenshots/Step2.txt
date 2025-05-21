@@ -1,0 +1,6 @@
+@ This step involves splitting the merge_dataset into training and testing datasets to train and validate your feedforward neural network model.
+
+@Training data teaches the model, while testing data evaluates its performance on unseen examples. This split helps measure how well the model generalizes to new data.
+
+@Train 10 times
+	- Changing hidden layers

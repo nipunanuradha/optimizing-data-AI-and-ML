@@ -1,0 +1,5 @@
+@This is the dataset you create by combining your 10 different datasets into one unified dataset.
+
+@Merging ensures that all relevant data is in a single dataset, simplifying preprocessing, analysis, and modeling.
+
+@Common challenges include handling inconsistent data formats, missing values, or duplicate records.

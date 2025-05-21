@@ -1,0 +1,7 @@
+confutation Metrix
+performance
+NN-training
+network-diagram (feed-forward NN View)
+NN-training Training state
+Regression
+Matlab SS (hiddenlayer [20,10])

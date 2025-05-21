@@ -1,0 +1,6 @@
+@ This step focuses on training the model with optimized hyperparameters and features.
+
+@ Hyperparameters like the number of layers, neurons, and learning rates directly impact the model's performance. Optimization ensures the model achieves the best possible accuracy.
+
+@Train 10 times
+	- Changing hidden layers

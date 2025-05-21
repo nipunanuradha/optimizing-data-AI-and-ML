@@ -1,0 +1,4 @@
+Hidden Layer Size [20,5]
+
+Validation Accuracy After PCA: 87.04%
+Test (Optimization) Accuracy After PCA: 85.19%
