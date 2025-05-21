@@ -1,0 +1,4 @@
+hidden layers - [45,15 ]
+
+results - Training Accuracy: 100.00%
+Test Set Accuracy: 66.67%

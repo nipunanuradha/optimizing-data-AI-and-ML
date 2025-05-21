@@ -1,0 +1,22 @@
+hiddenLayerSize = [40, 10]
+
+Iteration 1 of 10
+Iteration 1: Training Accuracy = 99.21%, Test Accuracy = 74.07%
+Iteration 2 of 10
+Iteration 2: Training Accuracy = 100.00%, Test Accuracy = 77.78%
+Iteration 3 of 10
+Iteration 3: Training Accuracy = 88.89%, Test Accuracy = 72.22%
+Iteration 4 of 10
+Iteration 4: Training Accuracy = 70.63%, Test Accuracy = 66.67%
+Iteration 5 of 10
+Iteration 5: Training Accuracy = 92.46%, Test Accuracy = 66.67%
+Iteration 6 of 10
+Iteration 6: Training Accuracy = 100.00%, Test Accuracy = 66.67%
+Iteration 7 of 10
+Iteration 7: Training Accuracy = 90.48%, Test Accuracy = 68.52%
+Iteration 8 of 10
+Iteration 8: Training Accuracy = 93.65%, Test Accuracy = 68.52%
+Iteration 9 of 10
+Iteration 9: Training Accuracy = 54.37%, Test Accuracy = 53.70%
+Iteration 10 of 10
+Iteration 10: Training Accuracy = 99.60%, Test Accuracy = 61.11%
