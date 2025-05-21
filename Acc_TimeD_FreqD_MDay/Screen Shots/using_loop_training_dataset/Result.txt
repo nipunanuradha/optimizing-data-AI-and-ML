@@ -1,0 +1,24 @@
+Hidden Layer Size [20,10]
+
+>> using_loop_training_dataset
+Iteration 1 of 10
+Iteration 1: Training Accuracy = 99.21%, Test Accuracy = 81.48%
+Iteration 2 of 10
+Iteration 2: Training Accuracy = 100.00%, Test Accuracy = 90.74%
+Iteration 3 of 10
+Iteration 3: Training Accuracy = 100.00%, Test Accuracy = 92.59%
+Iteration 4 of 10
+Iteration 4: Training Accuracy = 100.00%, Test Accuracy = 72.22%
+Iteration 5 of 10
+Iteration 5: Training Accuracy = 99.21%, Test Accuracy = 81.48%
+Iteration 6 of 10
+Iteration 6: Training Accuracy = 100.00%, Test Accuracy = 83.33%
+Iteration 7 of 10
+Iteration 7: Training Accuracy = 90.08%, Test Accuracy = 59.26%
+Iteration 8 of 10
+Iteration 8: Training Accuracy = 97.62%, Test Accuracy = 83.33%
+Iteration 9 of 10
+Iteration 9: Training Accuracy = 94.84%, Test Accuracy = 64.81%
+Iteration 10 of 10
+Iteration 10: Training Accuracy = 82.54%, Test Accuracy = 70.37%
+Training and testing completed for 10 iterations. Results saved.

@@ -1,0 +1,5 @@
+@ Refers to using a loop to iteratively train the model with various hyperparameter combinations or configurations.
+
+@ This systematic approach helps identify the optimal settings for the model. By automating the process in a loop, you save time and explore more possibilities.
+
+@ Step 4 is running loop. Optimization run selected Hidden layer size. it select by previous steps.

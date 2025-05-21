@@ -1,0 +1,4 @@
+hiddenLayerSize = [60,10];
+
+Training Accuracy: 100.00%
+Test Set Accuracy: 79.63%

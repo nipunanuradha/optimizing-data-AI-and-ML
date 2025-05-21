@@ -1,0 +1,3 @@
+%Create and configure the neural network
+hiddenLayerSize = [60,15]; % Define the size of the hidden layer
+net = feedforwardnet(hiddenLayerSize, 'trainlm'); % Feedforward NN with Levenberg-Marquardt as the training algorithm
